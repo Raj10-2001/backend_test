@@ -2,13 +2,13 @@ import uuid
 from datetime import datetime
 import random
 
-# Hardcoded users
+
 users = {
     "alice": "password123",
     "bob": "secret"
 }
 
-# In-memory token and history storage
+
 tokens = {}
 history = {}
 
