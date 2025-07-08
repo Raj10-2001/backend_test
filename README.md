@@ -80,5 +80,3 @@ Everything is stored in memory, and responses are randomly picked from a predefi
 3. AI responses are randomly picked from a predefined list.
 
 4. No external AI APIs or databases are connected (as per the test requirement).
-
-5. Rate limiting and token expiry were not implemented since they were optional.
