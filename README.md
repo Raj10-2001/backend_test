@@ -35,6 +35,8 @@ Everything is stored in memory, and responses are randomly picked from a predefi
     
 ## Example Postman Requests
 ***Replace your-generated-token with the token you get from the login response.
+
+
 *Login:
     Method: POST
     URL: http://127.0.0.1:8000/login/
